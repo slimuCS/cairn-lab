@@ -1,0 +1,5 @@
+.DS_Store
+showcase/node_modules/
+showcase/dist/
+showcase/*.tsbuildinfo
+design
