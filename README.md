@@ -4,6 +4,9 @@
 
 Cairn Lab 是為 10～50 人的實作課程設計的即時進度與求援看板（Workshop Progress Board）。學員可以回報每個關卡的完成或卡住狀態；TA 能認領並處理問題；講師則能掌握全班節奏，適時調整教學內容。
 
+<div align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/60c72541-1500-4137-a24c-97dc7f7d79f2" /></div>
+
+
 ## 目前狀態
 
 專案目前在**產品規格與互動展示階段**，尚未開始正式 Web App 實作。
